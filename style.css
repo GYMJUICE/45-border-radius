@@ -1,0 +1,16 @@
+div {
+    width: 300px;
+    height: 300px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    line-height: 300px;
+}
+.element1 {    
+    background-color: blueviolet;
+    border-radius: 100%;
+}
+.element2 {
+    background-color: rgb(226, 43, 43);
+    border-top-left-radius: 50px;
+}
